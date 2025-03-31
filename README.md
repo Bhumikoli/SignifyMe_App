@@ -1,61 +1,36 @@
-**Description**
 
-SignifyMe is an innovative application that bridges communication gaps between deaf and hearing communities using cutting-edge AI technology. 
-This Flutter-based mobile solution captures sign language gestures through the device camera and translates them into text or speech in real-time, while also providing the reverse functionality.
+### **SignifyMe**  
 
-Our system leverages a sophisticated neural network model trained on thousands of sign language examples to recognize hand gestures, facial expressions, and body movements with high accuracy. 
-The application primarily supports American Sign Language (ASL) with ongoing development to incorporate other sign language systems worldwide.
+SignifyMe is an innovative AI-powered mobile application that bridges communication gaps between deaf and hearing communities. This **Flutter-based** app captures **sign language gestures** via the device camera and translates them into **text or speech in real-time** while also providing the reverse functionality.  
 
-**Key components of SignSync include:**
+Our system leverages a **custom-trained neural network** on thousands of sign language samples to recognize **hand gestures, facial expressions, and body movements** with high accuracy. Initially supporting **American Sign Language (ASL)**, we aim to expand to other sign languages worldwide.  
 
-Advanced real-time video processing with OpenCV for precise gesture detection
-Custom-trained TensorFlow models optimized for mobile devices
-Intuitive Flutter UI/UX design ensuring accessibility across platforms
-Firebase backend for secure user authentication and progress tracking
-Interactive learning modules for users to improve their sign language skills
-Beyond being just a translation tool, SignifyMe serves as a comprehensive platform for sign language education and advocacy, promoting greater inclusivity in everyday communication and helping organizations become more accessible to the deaf and hard-of-hearing community.
+---
 
-**Apache 2.0**
+## **Key Components**  
+✅ **Real-time sign language detection and translation** (AI-powered)  
+✅ **Text-to-sign visualization** using a 3D avatar  
+✅ **Intuitive UI/UX** built with Flutter for accessibility  
+✅ **Secure authentication & progress tracking** via Firebase  
+✅ **Interactive learning modules** for sign language education  
+✅ **Offline mode** for essential translations  
 
-SignifyMe is a mobile application that uses artificial intelligence to translate sign language into text/speech and vice versa in real-time. 
-Built with Flutter, TensorFlow, and OpenCV, it offers an intuitive interface for both deaf and hearing users. 
-The app features real-time translation, interactive learning modules, and cross-platform compatibility. 
-SignifyMe aims to remove communication barriers, promote inclusivity, and empower deaf individuals to interact more seamlessly in various social and professional environments.
+---
 
-Translate sign language gestures to text in real-time
-Convert spoken or typed language into sign language demonstrations
-Learn sign language through interactive tutorials with feedback
-Build personalized sign language vocabulary lists
-Connect with the deaf community through integrated features
+## **Technologies Used**  
+- **Python** (AI/ML backend)  
+- **Flutter/Dart** (Cross-platform frontend)  
+- **TensorFlow** (Sign language recognition model)  
+- **OpenCV & MediaPipe** (Gesture detection & tracking)  
+- **Firebase** (User authentication & data storage)  
+- **Cloud ML services** (For improved model performance)  
 
-**Features**
+---
 
-Real-time sign language detection and translation
+## **Contributing**  
+Contributions are welcome! Feel free to submit a **Pull Request** or open an **issue** to discuss improvements.  
 
-Text-to-sign language visualization with 3D avatar
+---
 
-User-friendly interface built with Flutter
-
-Cross-platform support (Android, iOS)
-
-AI-powered gesture recognition with continuous learning
-
-Interactive learning modules with progress tracking
-
-Offline mode for essential translations
-
-**Technologies Used**
-
-Python
-Flutter/Dart
-TensorFlow
-OpenCV
-Firebase
-MediaPipe for hand tracking
-Cloud ML services
-
-Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-License
-This project is licensed under the  Apache 2.0 License - see the LICENSE file for details.
+## **License**  
+This project is licensed under the **Apache 2.0 License** – see the LICENSE file for details.  
