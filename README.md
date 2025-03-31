@@ -13,11 +13,14 @@ Custom-trained TensorFlow models optimized for mobile devices
 Intuitive Flutter UI/UX design ensuring accessibility across platforms
 Firebase backend for secure user authentication and progress tracking
 Interactive learning modules for users to improve their sign language skills
-Beyond being just a translation tool, SignSync serves as a comprehensive platform for sign language education and advocacy, promoting greater inclusivity in everyday communication and helping organizations become more accessible to the deaf and hard-of-hearing community.
+Beyond being just a translation tool, SignifyMe serves as a comprehensive platform for sign language education and advocacy, promoting greater inclusivity in everyday communication and helping organizations become more accessible to the deaf and hard-of-hearing community.
 
 **Apache 2.0**
 
-SignifyMe is a mobile application that uses artificial intelligence to translate sign language into text/speech and vice versa in real-time. Built with Flutter, TensorFlow, and OpenCV, it offers an intuitive interface for both deaf and hearing users. The app features real-time translation, interactive learning modules, and cross-platform compatibility. SignSync aims to remove communication barriers, promote inclusivity, and empower deaf individuals to interact more seamlessly in various social and professional environments.
+SignifyMe is a mobile application that uses artificial intelligence to translate sign language into text/speech and vice versa in real-time. 
+Built with Flutter, TensorFlow, and OpenCV, it offers an intuitive interface for both deaf and hearing users. 
+The app features real-time translation, interactive learning modules, and cross-platform compatibility. 
+SignifyMe aims to remove communication barriers, promote inclusivity, and empower deaf individuals to interact more seamlessly in various social and professional environments.
 
 Translate sign language gestures to text in real-time
 Convert spoken or typed language into sign language demonstrations
