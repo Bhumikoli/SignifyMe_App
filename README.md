@@ -19,8 +19,7 @@ Our system leverages a **custom-trained neural network** on thousands of sign la
 
 ## **Technologies Used**  
 - **Python** (AI/ML backend)  
-- **Flutter/Dart** (Cross-platform frontend)  
-- **TensorFlow** (Sign language recognition model)  
+- **Flutter/Dart** (Cross-platform frontend)   
 - **OpenCV & MediaPipe** (Gesture detection & tracking)  
 - **Firebase** (User authentication & data storage)  
 - **Cloud ML services** (For improved model performance)  
